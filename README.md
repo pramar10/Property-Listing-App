@@ -1,5 +1,6 @@
 Steps to run the project:
 - Need node 18+ to run
+- npx json-server --watch db.json --port 3000(need to run the server to use the app)
 - npm install
 - npm start
 
